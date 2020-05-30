@@ -1,0 +1,14 @@
+api/response/StandardResponse.class
+api/request/UserRegistrationRequest.class
+api/request/LoginRequest.class
+api/response/ArticlesResponse.class
+api/controller/ArticleController.class
+api/service/impl/ArticleServiceImpl.class
+api/repository/UserRepository.class
+api/Application.class
+api/bo/User.class
+api/request/ArticleRequest.class
+api/repository/ArticleRepository.class
+api/service/ArticleService.class
+api/response/ArticleResponse.class
+api/bo/Article.class
